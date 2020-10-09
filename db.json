@@ -11,7 +11,8 @@
          "descricao":"Gabarito 1",
           "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/provas/BAIXA_PPL_1_DIA_CADERNO_1_AZUL.pdf",
           "disponivel":true,
-          "gabaritos":[
+          "gabaritos":
+          [
             {
               "id":"1",
               "comentado":false,
@@ -20,7 +21,7 @@
             }
           ]
         }
-      ],
+      ]
       
     }
   ]
