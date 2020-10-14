@@ -8,7 +8,8 @@
       "simulados":[
         {
           "id":"1",
-         "descricao":"Gabarito 1",
+         "descricao":"Simulado 1",
+          "quant_questoes":10,
           "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/provas/BAIXA_PPL_1_DIA_CADERNO_1_AZUL.pdf",
           "disponivel":true,
           "gabaritos":
@@ -38,7 +39,8 @@
       "simulados":[
         {
           "id":"1",
-         "descricao":"Gabarito 1",
+         "descricao":"Simulado 1",
+          "quant_questoes":20,
           "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/provas/BAIXA_PPL_2_DIA_CADERNO_5_AMARELO.pdf",
           "disponivel":true,
           "gabaritos":
