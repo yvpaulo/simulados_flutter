@@ -18,7 +18,7 @@
               "id":"1",
               "comentado":false,
               "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf",
-              "disponivel":"true"
+              "disponivel":true
             },
             {
               "id":"2",
