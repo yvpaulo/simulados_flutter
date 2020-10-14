@@ -24,7 +24,29 @@
               "id":"2",
               "comentado":true,
               "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf",
-              "disponivel":"false"
+              "disponivel":false
+            }
+          ]
+        },
+        {
+          "id":"2",
+         "descricao":"Simulado 2",
+          "quant_questoes":15,
+          "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/provas/BAIXA_PPL_1_DIA_CADERNO_1_AZUL.pdf",
+          "disponivel":true,
+          "gabaritos":
+          [
+            {
+              "id":"1",
+              "comentado":false,
+              "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf",
+              "disponivel":true
+            },
+            {
+              "id":"2",
+              "comentado":true,
+              "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf",
+              "disponivel":true
             }
           ]
         }
@@ -49,7 +71,7 @@
               "id":"1",
               "comentado":false,
               "pdf":"http://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_2_dia_caderno_5_amarelo_2_aplicacao.pdf",
-              "disponivel":"true"
+              "disponivel":true
             }
           ]
         }
