@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245492706692",
+    "firebase_url": "https://simulados-app-7beca.firebaseio.com",
+    "project_id": "simulados-app-7beca",
+    "storage_bucket": "simulados-app-7beca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245492706692:android:662654074aa34b5eab01d1",
+        "android_client_info": {
+          "package_name": "com.example.simulados_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245492706692-vq22nf93qd9b7qbb4n0takjdvi06cnno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simulados_app",
+            "certificate_hash": "73e7d9495e80076d022784f2fd37f2c4df71b629"
+          }
+        },
+        {
+          "client_id": "245492706692-b2vrcqs2b181s0etti6bq3vmrvq274bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6_AqKWUaM1A2d39e86hMXH45pKi_qV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245492706692-b2vrcqs2b181s0etti6bq3vmrvq274bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
